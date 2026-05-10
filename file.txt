@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hum bhi badiya hai 
 
+=======
+kese ho bhai?
+>>>>>>> branch1
